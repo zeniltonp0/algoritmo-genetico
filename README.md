@@ -37,10 +37,6 @@ source venv/bin/activate  # Linux/macOS
 
 venv\Scripts\activate     # Windows
 
-### Instale as dependências
-
-pip install -r requirements.txt
-
 ### Execute o script
 
 python main.py
