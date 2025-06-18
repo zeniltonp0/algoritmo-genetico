@@ -31,15 +31,15 @@ git clone https://github.com/SEU_USUARIO/algoritmo-genetico-otimizacao.git
 
 ### Crie um ambiente virtual:
 
-python3 -m venv venv
+```python3 -m venv venv```
 
-source venv/bin/activate  # Linux/macOS
+```source venv/bin/activate  # Linux/macOS``` 
 
-venv\Scripts\activate     # Windows
+```venv\Scripts\activate     # Windows``` 
 
 ### Execute o script
 
-python main.py
+```python main.py``` 
 
 
 ## ⚙️ Funcionamento
