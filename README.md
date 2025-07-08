@@ -63,8 +63,9 @@ O algoritmo genético realiza o seguinte:
 O objetivo é encontrar a melhor combinação de alocações que maximize o retorno e mantenha o risco abaixo de um limite definido.
 
 ## Os participantes do projeto são:
-Zenilton Pereira
-Bruna Raquel
-João Victor Paiva
-Vandré Cortês
-Eduardo de Carvalho
+Zenilton Pereira |
+Bruna Raquel |
+João Victor Paiva |
+Vandré Cortês |
+Eduardo de Carvalho |
+Ryan Ramon
